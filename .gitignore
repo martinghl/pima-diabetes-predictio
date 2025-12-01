@@ -15,3 +15,13 @@ venv/
 
 # Optional: local outputs
 outputs/
+
+# Generated figures
+figures/
+figures_eda/
+
+# Generated CSV / metrics
+cleaned_pima_diabetes.csv
+eda_descriptive_stats.csv
+metrics.csv
+metrics.json
