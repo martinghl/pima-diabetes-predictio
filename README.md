@@ -96,6 +96,3 @@ python -m src.health_data_analysis --outdir outputs
 
 Both reports are plain Markdown and can be viewed directly on GitHub.
 
-## 7. License
-
-Add your preferred license here (e.g. MIT).
